@@ -1,0 +1,39 @@
+_repo: A-Letter-to-Dion_29478
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Viner, Jacob
+    birthdate: 1892
+    deathdate: 1970
+    gutenberg_agent_id: '33936'
+    url: http://www.gutenberg.org/2009/agents/33936
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Viner
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mandeville, Bernard
+    aliases:
+    - Mandeville, B. (Bernard)
+    - De Mandeville, Bernard
+    birthdate: 1670
+    deathdate: 1733
+    gutenberg_agent_id: '2543'
+    url: http://www.gutenberg.org/2009/agents/2543
+    wikipedia: http://en.wikipedia.org/wiki/Bernard_de_Mandeville
+description: No -- 41. Faksimileudgave.
+gutenberg_issued: '2009-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29478'
+  lccn: '53003599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Berkeley, George, 1685-1753. Alciphron'
+title: A Letter to Dion
+url: http://www.gutenberg.org/ebooks/29478
