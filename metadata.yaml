@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2543
     wikipedia: http://en.wikipedia.org/wiki/Bernard_de_Mandeville
 description: No -- 41. Faksimileudgave.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29478#A-Letter-to-Dion
 gutenberg_issued: '2009-07-21'
 gutenberg_type: Text
 identifiers:
